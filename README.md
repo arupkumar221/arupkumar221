@@ -74,13 +74,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arupkumar221&theme=dracula&margin-w=10"/>
-</p>
-
----
 
 ## 🛣️ DevOps Roadmap I'm Following
 
